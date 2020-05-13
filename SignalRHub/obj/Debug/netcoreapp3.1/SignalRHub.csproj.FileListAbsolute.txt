@@ -1,0 +1,4 @@
+C:\Users\Kevin\source\repos\SignalR\SignalRHub\obj\Debug\netcoreapp3.1\SignalRHub.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\SignalR\SignalRHub\obj\Debug\netcoreapp3.1\SignalRHub.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\SignalR\SignalRHub\obj\Debug\netcoreapp3.1\SignalRHub.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\SignalR\SignalRHub\obj\Debug\netcoreapp3.1\SignalRHub.AssemblyInfo.cs

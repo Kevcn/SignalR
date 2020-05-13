@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "TTIPfrB9ISfMzKY3FKpvOrChRs4RfIWLjSh5B+71UH+Y59nEbUwGCYL2uz+8n6N79jOeBuTmg9jHT7pd+cLPSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kevin\\source\\repos\\SignalR\\SignalRClient\\SignalRClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\5.0.0-preview.3.20215.14\\microsoft.aspnetcore.connections.abstractions.5.0.0-preview.3.20215.14.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\5.0.0-preview.3.20215.14\\microsoft.aspnetcore.http.connections.client.5.0.0-preview.3.20215.14.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\5.0.0-preview.3.20215.14\\microsoft.aspnetcore.http.connections.common.5.0.0-preview.3.20215.14.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.0-preview.3.20215.14\\microsoft.aspnetcore.http.features.5.0.0-preview.3.20215.14.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\5.0.0-preview.3.20215.14\\microsoft.aspnetcore.signalr.client.5.0.0-preview.3.20215.14.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\5.0.0-preview.3.20215.14\\microsoft.aspnetcore.signalr.client.core.5.0.0-preview.3.20215.14.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\5.0.0-preview.3.20215.14\\microsoft.aspnetcore.signalr.common.5.0.0-preview.3.20215.14.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\5.0.0-preview.3.20215.14\\microsoft.aspnetcore.signalr.protocols.json.5.0.0-preview.3.20215.14.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0-preview.3.20215.2\\microsoft.extensions.configuration.5.0.0-preview.3.20215.2.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0-preview.3.20215.2\\microsoft.extensions.configuration.abstractions.5.0.0-preview.3.20215.2.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0-preview.3.20215.2\\microsoft.extensions.configuration.binder.5.0.0-preview.3.20215.2.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0-preview.3.20215.2\\microsoft.extensions.dependencyinjection.5.0.0-preview.3.20215.2.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0-preview.3.20215.2\\microsoft.extensions.dependencyinjection.abstractions.5.0.0-preview.3.20215.2.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0-preview.3.20215.2\\microsoft.extensions.logging.5.0.0-preview.3.20215.2.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0-preview.3.20215.2\\microsoft.extensions.logging.abstractions.5.0.0-preview.3.20215.2.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.extensions.options\\5.0.0-preview.3.20215.2\\microsoft.extensions.options.5.0.0-preview.3.20215.2.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0-preview.3.20215.2\\microsoft.extensions.primitives.5.0.0-preview.3.20215.2.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0-preview.3.20214.6\\system.componentmodel.annotations.5.0.0-preview.3.20214.6.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\system.io.pipelines\\5.0.0-preview.3.20214.6\\system.io.pipelines.5.0.0-preview.3.20214.6.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\system.memory\\4.5.2\\system.memory.4.5.2.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0-preview.3.20214.6\\system.runtime.compilerservices.unsafe.5.0.0-preview.3.20214.6.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\system.text.encodings.web\\5.0.0-preview.3.20214.6\\system.text.encodings.web.5.0.0-preview.3.20214.6.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\system.text.json\\5.0.0-preview.3.20214.6\\system.text.json.5.0.0-preview.3.20214.6.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\system.threading.channels\\5.0.0-preview.3.20214.6\\system.threading.channels.5.0.0-preview.3.20214.6.nupkg.sha512"
+  ],
+  "logs": []
+}
